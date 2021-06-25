@@ -2,6 +2,13 @@
 ro.config.media_vol_default=8
 ro.config.media_vol_steps=25
 
+# Blur
+ro.surface_flinger.supports_background_blur=1
+ro.sf.blurs_are_expensive=1
+
+# Bluetooth
+persist.vendor.btstack.enable.twsplus=true
+
 # Camera
 log.tag.CHIUSECASE=ERROR
 camera.disable_zsl_mode=true
