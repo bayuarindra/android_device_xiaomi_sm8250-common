@@ -6,7 +6,7 @@ Some adjustments may be required for proper functioning on other devices.
 Clone the repo under the following directory `device/xiaomi/sm8250-common`:
 
 ```sh
-git clone https://github.com/username0136/device_xiaomi_sm8250-common device/xiaomi/sm8250-common
+git clone https://github.com/bayuarindra/device_xiaomi_sm8250-common device/xiaomi/sm8250-common
 ```
 
 ## Contributing
@@ -14,9 +14,14 @@ Contributions to this repository are welcome!
 Feel free to submit a pull request :)
 
 ## Special Thanks
-<a href="https://github.com/username0136/device_xiaomi_sm8250-common/graphs/contributors"><img src="https://contrib.rocks/image?repo=username0136/device_xiaomi_sm8250-common&max=5"/></a>
+- @SebaUbuntu for the base
+- @johnmart19 for optimizations
+- @NotZeetaa for maintenance
+- @username0136 , @Mudit200408 , @hdzungx
 
-Check [contributors](https://github.com/username0136/device_xiaomi_sm8250-common/graphs/contributors) section for more.
+<a href="https://github.com/bayuarindra/device_xiaomi_sm8250-common/graphs/contributors"><img src="https://contrib.rocks/image?repo=username0136/device_xiaomi_sm8250-common&max=5"/></a>
+
+Check [contributors](https://github.com/bayuarindra/device_xiaomi_sm8250-common/graphs/contributors) section for more.
 
 ## License
 Unless otherwise specified, the contents of this repository are licensed under Apache-2.0. See the [LICENSE](/LICENSE) file for more details.
