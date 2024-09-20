@@ -505,10 +505,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vndservicemanager
 
-# Viper4Android
-PRODUCT_PACKAGES += \
-    libstdc++_vendor \
-    
 # Vibrator Configuration
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/vibrator/excluded-input-devices.xml:$(TARGET_COPY_OUT_VENDOR)/etc/excluded-input-devices.xml
